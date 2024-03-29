@@ -15,3 +15,4 @@ The performance of classification algorithms can be significantly enhanced by pr
 This study delves into the combined effect of dimensionality reduction methods and different classification algorithms on the CICIDS2017 dataset. Our primary objective is to evaluate the effectiveness and efficiency of these algorithms in accurately identifying and classifying network intrusions. 
 
 This revised introduction uses simpler language, avoids unnecessary technical jargon (like "Canadian Institute for Cybersecurity Intrusion Detection System"), and clarifies the purpose of the study for a broader audience. 
+[result.xlsx](https://github.com/TwoDarray/Enhancing-the-Security-by-Analyzing-the-Behavior-of-Multiple-Classification-Algorithms-/files/14803037/result.xlsx)
