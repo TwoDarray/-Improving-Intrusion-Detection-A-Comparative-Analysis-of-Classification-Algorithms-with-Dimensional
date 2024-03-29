@@ -20,3 +20,6 @@ This revised introduction uses simpler language, avoids unnecessary technical ja
 This sheet is showing the accuracy we get after each algorithm
 ![Screenshot 2024-03-29 162718](https://github.com/TwoDarray/Enhancing-the-Security-by-Analyzing-the-Behavior-of-Multiple-Classification-Algorithms-/assets/104327376/6da54423-1381-47bb-bf27-56994466af7b)
                                      [result.xlsx](https://github.com/TwoDarray/Enhancing-the-Security-by-Analyzing-the-Behavior-of-Multiple-Classification-Algorithms-/files/14803037/result.xlsx)
+
+Here you can see the chart to understand the performance of algorithm's on the dataset
+![Screenshot 2024-03-29 165727](https://github.com/TwoDarray/-Improving-Intrusion-Detection-A-Comparative-Analysis-of-Classification-Algorithms-with-Dimensional/assets/104327376/b2aa6b7a-9f37-40f1-ac4d-dcfd6dc50ff9)
